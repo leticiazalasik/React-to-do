@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "id": "0.49004946161398577",
+      "title": "Design UX",
+      "time": "10",
+      "done": false
+    },
+    {
+      "id": 0.9491523388557299,
+      "title": "Desenvolvimento front-end",
+      "time": "40",
+      "done": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
