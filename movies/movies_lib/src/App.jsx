@@ -6,13 +6,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2>
-        <Link to="/">MoviesLib</Link>
-      </h2>
-      <form>
-        <input type="text" placeholder="Busque um filme"></input>
-        <button type="submit"></button>
-      </form>
       <Outlet />
     </div>
   );
